@@ -1,2 +1,1 @@
-# PersonalCV
- 
+This Project includes .NetCore mvc it has 2 template and its showing my personal website that introduce me. You can find Database as "PersonalWebsiteDB" and you need to fix db context in databaselayer/context or db will not include in program.
