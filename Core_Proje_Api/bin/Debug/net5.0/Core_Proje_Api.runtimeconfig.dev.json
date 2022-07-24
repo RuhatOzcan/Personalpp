@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ruhat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ruhat\\.nuget\\packages"
+    ]
+  }
+}

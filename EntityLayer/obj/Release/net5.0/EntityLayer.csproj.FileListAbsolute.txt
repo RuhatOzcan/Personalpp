@@ -1,0 +1,15 @@
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\bin\Release\net5.0\EntityLayer.deps.json
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\bin\Release\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\bin\Release\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\bin\Release\net5.0\EntityLayer.dll
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\bin\Release\net5.0\EntityLayer.pdb
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.dll
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\refint\EntityLayer.dll
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.pdb
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\ruhat\Desktop\.net\PersonalWebsite\EntityLayer\obj\Release\net5.0\ref\EntityLayer.dll
